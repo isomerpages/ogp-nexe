@@ -7,11 +7,13 @@ description: ""
 
 [Watch Baby Shark](https://www.youtube.com/watch?v=XqZsoesa55w)
 
+
 <html>
 <head>
 <style>
 table, th, td {
   border: 1px solid black;
+  border-collapse: collapse;
 }
 </style>
 </head>
