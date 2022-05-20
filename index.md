@@ -23,4 +23,9 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
