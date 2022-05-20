@@ -7,6 +7,16 @@ description: ""
 
 [Watch Baby Shark](https://www.youtube.com/watch?v=XqZsoesa55w)
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
 
 <table>
   <tr>
@@ -25,4 +35,5 @@ description: ""
     <td>blue</td>
   </tr>
 </table>
+
 
