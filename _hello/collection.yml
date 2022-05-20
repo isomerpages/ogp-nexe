@@ -2,4 +2,5 @@ collections:
   hello:
     output: true
     order:
+      - Example Title.md
       - Content.md
