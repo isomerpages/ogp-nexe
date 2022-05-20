@@ -4,10 +4,3 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: hello
-    url: /permalink
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
-  - title: Content
-    url: /permalink
